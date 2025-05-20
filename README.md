@@ -27,12 +27,17 @@ This project uses a feedforward neural network to predict Meta’s closing stock
 - Epochs: 100
 - Batch size: 16
 
----
+
 
 ## 📈 Evaluation
 
 - Visual comparison of actual vs predicted values
+
+  
 - Training vs validation loss plot
+
+  ![Picture1](https://github.com/user-attachments/assets/408c3b5e-2ee8-4849-b6b7-9eedc3a00f28)
+
 - Final MSE printed on test data
 
 ---
