@@ -33,10 +33,12 @@ This project uses a feedforward neural network to predict Meta’s closing stock
 
 - Visual comparison of actual vs predicted values
 
+  ![Picture1](https://github.com/user-attachments/assets/408c3b5e-2ee8-4849-b6b7-9eedc3a00f28)
   
 - Training vs validation loss plot
 
-  ![Picture1](https://github.com/user-attachments/assets/408c3b5e-2ee8-4849-b6b7-9eedc3a00f28)
+  ![Picture2](https://github.com/user-attachments/assets/a0b753bc-7096-44ad-990e-5ff16182c8ec)
+
 
 - Final MSE printed on test data
 
